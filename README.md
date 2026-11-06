@@ -11,12 +11,12 @@ python examples/basic_generation.py
 \`\`\`
 
 ### Features
-- **Hydrophobic core modeling** — constrains hydrophobic AAs toward sequence center
-- **Hard motifs** — enforce CxxC zinc fingers, disulfide patterns, etc.
-- **Forbidden patterns** — exclude PPP runs, charge clusters, restriction sites
-- **Secondary structure hints** — soft preferences (α-helix, β-sheet, coil)
-- **Codon optimization** — DNA synthesis with restriction site avoidance
-- **Backtracking WFC loop** — Monte Carlo collapse with constraint propagation
+- **Hydrophobic core modeling** : constrains hydrophobic AAs toward sequence center
+- **Hard motifs** : enforce CxxC zinc fingers, disulfide patterns, etc.
+- **Forbidden patterns** : exclude PPP runs, charge clusters, restriction sites
+- **Secondary structure hints** : soft preferences (α-helix, β-sheet, coil)
+- **Codon optimization** : DNA synthesis with restriction site avoidance
+- **Backtracking WFC loop** : Monte Carlo collapse with constraint propagation
 
 ### Example
 \`\`\`python
